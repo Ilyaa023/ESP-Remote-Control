@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Matrix Controller</string>
+    <string name="address">Address</string>
+    <string name="msg_success">Success</string>
+    <string name="msg_fail">Fail</string>
+    <string name="msg_unknown">Unknown error</string>
+    <string name="btn_connect"><![CDATA[Connect & Refresh]]></string>
+    <string name="r1">R1</string>
+    <string name="r2">R2</string>
+    <string name="comparator">Comparator</string>
+    <string name="oin_minus_1">OIN - 1</string>
+    <string name="oin_minus_2">OIN - 2</string>
+    <string name="oin_plus_2">OIN + 2</string>
+    <string name="oin_plus_1">OIN + 1</string>
+    <string name="balance_resistor">Balance</string>
+    <string name="pwr">PWR</string>
+    <string name="gnd">GND</string>
+
+</resources>

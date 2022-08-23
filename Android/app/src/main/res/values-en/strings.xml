@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrix Controller</string>
+    <string name="address">Адрес</string>
+    <string name="msg_success">Успешно</string>
+    <string name="msg_fail">Что-то пошло не так</string>
+    <string name="msg_unknown">Неизвестная ошибка</string>
+    <string name="btn_connect"><![CDATA[Подключиться и обновить]]></string>
+    <string name="r1">R1</string>
+    <string name="r2">R2</string>
+    <string name="comparator">Компаратор</string>
+    <string name="oin_minus_1">ОИН - 1</string>
+    <string name="oin_minus_2">ОИН - 2</string>
+    <string name="oin_plus_2">ОИН + 2</string>
+    <string name="oin_plus_1">ОИН + 1</string>
+    <string name="balance_resistor">Баланс</string>
+    <string name="pwr">PWR</string>
+    <string name="gnd">GND</string>
+
+</resources>
