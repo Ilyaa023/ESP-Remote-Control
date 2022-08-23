@@ -96,7 +96,7 @@ void handleNotFound() {
 }
 
 void setup() {
-  WiFi.begin("Nhome", "65488824617");
+  WiFi.begin("ssid", "ssid-password");
   Serial.begin(115200);
   Serial.setTimeout(20);
   Serial.println("Connection");
